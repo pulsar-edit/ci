@@ -1,3 +1,4 @@
+# This repository has been superseded by [`pulsar-edit/action-pulsar-dependency`](https://github.com/pulsar-edit/action-pulsar-dependency) which serves the same purpose
 # Atom Package CI Scripts
 
 Templates for building your Atom package and running its specs:
